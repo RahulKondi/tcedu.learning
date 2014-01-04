@@ -1,0 +1,6 @@
+algo to rotate
+given : abcdefgh
+=> ((a b c d)^r (e f g h)^r)^r
+where r = rotate!
+--------------------------
+
